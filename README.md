@@ -25,7 +25,6 @@ References:
 1. Fisher SA, Brunskill SJ, Doree C, Mathur A, Taggart DP, Martin-Rendon E. Stem cell therapy for chronic ischaemic heart disease and congestive heart failure. Cochrane Database Syst Rev. 2014 Apr 29;4:CD007888. doi:
 [10.1002/14651858.CD007888.pub2](http://dx.doi.org/10.1002/14651858.CD007888.pub2). PMID: [24777540](http://pubmed.gov/24777540).
 2. Clifford DM, Fisher SA, Brunskill SJ, Doree C, Mathur A, Watt S, Martin-Rendon E. Stem cell treatment for acute myocardial infarction. Cochrane Database Syst Rev. 2012 Feb 15;2:CD006536. doi: [10.1002/14651858.CD006536.pub3](http://dx.doi.org/10.1002/14651858.CD006536.pub3). PMID: [22336818](http://pubmed.gov/22336818)
-3. Lipinski MJ, Biondi-Zoccai GG, Abbate A, Khianey R, Sheiban I, Bartunek J, Vanderheyden M, Kim HS, Kang HJ, Strauer BE, Vetrovec GW. Impact of intracoronary cell therapy on left ventricular function in the setting of acute myocardial infarction: a collaborative systematic review and meta-analysis of controlled clinical trials. J Am Coll Cardiol. 2007 Oct 30;50(18):1761-7. Epub 2007 Oct 15. PMID: [17964040](http://pubmed.gov/17964040)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
