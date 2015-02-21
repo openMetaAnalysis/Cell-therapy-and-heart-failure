@@ -25,6 +25,8 @@ References:
 1. Fisher SA, Doree C, Mathur A, Martin-Rendon E. Meta-Analysis of Cell Therapy Trials for Patients with Heart Failure - An Update. Circ Res. 2015 Jan 28. pii: [CIRCRESAHA.114.304386](http://dx.doi.org/CIRCRESAHA.114.304386). PMID: [25632038](http://pubmed.gov/25632038)
 2. Fisher SA, Brunskill SJ, Doree C, Mathur A, Taggart DP, Martin-Rendon E. Stem cell therapy for chronic ischaemic heart disease and congestive heart failure. Cochrane Database Syst Rev. 2014 Apr 29;4:CD007888. doi:
 [10.1002/14651858.CD007888.pub2](http://dx.doi.org/10.1002/14651858.CD007888.pub2). PMID: [24777540](http://pubmed.gov/24777540).
+Non-ischemic heart failure:
+1. Marquis-Gravel G, Stevens LM, Mansour S, Avram R, Noiseux N. Stem cell therapy for the treatment of nonischemic cardiomyopathy: a systematic review of the literature and meta-analysis of randomized controlled trials. Can J Cardiol. 2014 Nov;30(11):1378-84. doi: 10.1016/j.cjca.2014.03.026. Epub 2014 Mar 25. PMID: [25138483](http://pubmed.gov/25138483)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
