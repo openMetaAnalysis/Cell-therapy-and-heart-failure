@@ -1,5 +1,5 @@
 # Cell therapy for left ventricular dysfunction or heart failure
-A mini living systematic review
+A limited living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *__* effective.
 
