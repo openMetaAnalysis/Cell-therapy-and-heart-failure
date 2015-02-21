@@ -1,2 +1,3 @@
 Study,Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor,
-Cardio133, 2014, 24497345, , 30, , 30, 'CABG',
+Pätilä, 2014, 24656645, 0, 20, 0, 19 , 'CABG - 12 months',
+Cardio133, 2014, 24497345, 0, 30, 2, 30, 'CABG - 6 months',
