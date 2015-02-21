@@ -22,7 +22,8 @@ References:
 ----------------------------------
 ### Systematic review(s)
 ####Most recent review(s) at time of last revision of this repository
-1. Fisher SA, Brunskill SJ, Doree C, Mathur A, Taggart DP, Martin-Rendon E. Stem cell therapy for chronic ischaemic heart disease and congestive heart failure. Cochrane Database Syst Rev. 2014 Apr 29;4:CD007888. doi:
+1. Fisher SA, Doree C, Mathur A, Martin-Rendon E. Meta-Analysis of Cell Therapy Trials for Patients with Heart Failure - An Update. Circ Res. 2015 Jan 28. pii: [CIRCRESAHA.114.304386](http://dx.doi.org/CIRCRESAHA.114.304386). PMID: [25632038](http://pubmed.gov/25632038)
+2. Fisher SA, Brunskill SJ, Doree C, Mathur A, Taggart DP, Martin-Rendon E. Stem cell therapy for chronic ischaemic heart disease and congestive heart failure. Cochrane Database Syst Rev. 2014 Apr 29;4:CD007888. doi:
 [10.1002/14651858.CD007888.pub2](http://dx.doi.org/10.1002/14651858.CD007888.pub2). PMID: [24777540](http://pubmed.gov/24777540).
 
 ### Randomized controlled trials
