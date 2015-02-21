@@ -24,7 +24,6 @@ References:
 ####Most recent review(s) at time of last revision of this repository
 1. Fisher SA, Brunskill SJ, Doree C, Mathur A, Taggart DP, Martin-Rendon E. Stem cell therapy for chronic ischaemic heart disease and congestive heart failure. Cochrane Database Syst Rev. 2014 Apr 29;4:CD007888. doi:
 [10.1002/14651858.CD007888.pub2](http://dx.doi.org/10.1002/14651858.CD007888.pub2). PMID: [24777540](http://pubmed.gov/24777540).
-2. Clifford DM, Fisher SA, Brunskill SJ, Doree C, Mathur A, Watt S, Martin-Rendon E. Stem cell treatment for acute myocardial infarction. Cochrane Database Syst Rev. 2012 Feb 15;2:CD006536. doi: [10.1002/14651858.CD006536.pub3](http://dx.doi.org/10.1002/14651858.CD006536.pub3). PMID: [22336818](http://pubmed.gov/22336818)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
