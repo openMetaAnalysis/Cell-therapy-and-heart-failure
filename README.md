@@ -1,5 +1,5 @@
 # Cell therapy for left ventricular dysfunction or heart failure (incomplete, under contruction)
-A limited living systematic review
+A data-only living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *__* effective.
 
