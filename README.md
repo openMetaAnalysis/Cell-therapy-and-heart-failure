@@ -1,7 +1,7 @@
 # Cell therapy for left ventricular dysfunction or heart failure (incomplete, under contruction)
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *__* effective.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective in preserving or increasing the ejection fration.
 
 [Keep current with this topic](Keep-up.md)
 
@@ -16,6 +16,9 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Cell-therapy-for-left-ventricular-dysfunction/master/forest-plots/Outcome-Primary.png "Principle results")
+
+The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Cell-therapy-for-left-ventricular-dysfunction/master/metaregression/Outcome-Primary.png "Principle results - metaregression")
 
 References:
 ----------------------------------
