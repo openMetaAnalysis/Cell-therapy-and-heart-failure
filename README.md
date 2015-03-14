@@ -33,4 +33,3 @@ References:
 #### New trial(s) *not* included in the most recent review above
 1. *Included by converting IQRs to SDs*: Pätilä T, Lehtinen M, Vento A, at al. Autologous bone marrow mononuclear cell transplantation in ischemic heart failure: a prospective, controlled, randomized, double-blind study of cell transplantation combined with coronary bypass. J Heart Lung Transplant. 2014 Jun;33(6):567-74. doi: [10.1016/j.healun.2014.02.009](http://dx.doi.org/10.1016/j.healun.2014.02.009). PMID: [24656645](http://pubmed.gov/24656645)
 
-#### Trials included in the review above
