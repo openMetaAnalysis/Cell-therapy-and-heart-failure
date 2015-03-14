@@ -1,7 +1,7 @@
 # Cell therapy for left ventricular dysfunction or heart failure (incomplete, under contruction)
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective in preserving or increasing the ejection fration.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective in preserving or increasing the ejection fraction. However, there is 'substantial' heterogeneity of study results. The heterogeneity is partly explained by more recent studies showing less favorable results.
 
 [Keep current with this topic](Keep-up.md)
 
