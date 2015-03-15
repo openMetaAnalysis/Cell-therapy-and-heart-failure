@@ -21,7 +21,7 @@ Yao,                2008, 18381377, 46.6 (5.6), 24, 44.1 (8.4), 23, 'Ischemic he
 Zhao,               2008, 12345678, 49.1 (9.7), 16, 40.6 (8.4), 18, 'Ischemic heart disease',
 ,,,,,,,,
 Not included:,,,,,,,,
-Perin (PRECISE), 2014, 24952864, , , 21, , , 6,'Insignificant'
+Perin (PRECISE), 2014, 24952864,  , 21,  , 6,'Insignificant',
 ,,,,,,,,
 ,,,,,,,To make forest plot:,
 ,,,,,,,Click 'Raw' view of this file,
