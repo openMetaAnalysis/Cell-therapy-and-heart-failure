@@ -15,9 +15,11 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Cell-therapy-for-left-ventricular-dysfunction/master/forest-plots/Outcome-Primary.png "Principle results")
 
 The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
+
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Cell-therapy-for-left-ventricular-dysfunction/master/metaregression/Outcome-Primary.png "Principle results - metaregression")
 
 References:
