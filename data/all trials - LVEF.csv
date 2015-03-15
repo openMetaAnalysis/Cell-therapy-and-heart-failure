@@ -6,10 +6,10 @@ Bocchi,             2008, 18675477, 30.6 (7.3),  8, 26.9 (8.3), 14, 'Non-ischemi
 Chen,               2006, 17090821, 37.0 (5.0), 22, 31.0 (5.0), 23, 'Ischemic heart disease',
 Duckers (SEISMIC),  2011, 21252013, 31.5(11.1), 24, 32.5 (8.0), 14, 'Ischemic heart disease',
 Hendrikx,           2006, 16820557, 48.9 (9.5), 10, 43.1(10.9), 10, 'Ischemic heart disease',
-Honold (TOPCARE-G-CSF),2012,22963750,38.9(13.3),21, 39.2,  7.4,  5, 'Ischemic heart disease',
+Honold (TOPCARE-G-CSF),2012,22963750,38.9(13.3),21, 39.2 (7.4),  5, 'Ischemic heart disease',*
 Hu,                 2011, 21658561, 36.5(11.8), 31, 32.3(10.3), 28, 'Ischemic heart disease',
 Maureira,           2012, 22785499, 41.0 (6.0),  7, 35.0 (6.0),  7, 'Ischemic heart disease',
-Nasseri (Cardio133),2014, 24497345, 31(7), 30, 33(8), 30, 'Ischemic heart disease',
+Nasseri (Cardio133),2014, 24497345, 31(7), 30, 33(8), 30, 'Ischemic heart disease',*
 Patel,              2005, 16308009, 46.1 (1.9), 10, 37.2 (3.4), 10, 'Ischemic heart disease',
 Patila,             2014, 24656645,  4.8 (6.4), 20,  5.6 (0.2), 19, 'Ischemic heart disease',
 Perin (FOCUS-HF),   2011, 21641354, 40.0 (5.4), 20, 42.0 (5.4), 10, 'Ischemic heart disease',
