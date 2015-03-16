@@ -37,7 +37,7 @@ References:
 
 #### New trial(s) *excluded* 
 1. *LVEF reported as insignificant, but numbers not reported*: Perin EC, Sanz-Ruiz R, Sánchez PL et al. Adipose-derived regenerative cells in patients with ischemic cardiomyopathy: The PRECISE Trial.
-Am Heart J. 2014 Jul;168(1):88-95.e2. doi: [10.1016/j.ahj.2014.03.022](http://dx.doi.org/10.1016/j.ahj.2014.03.022). PMID: [24952864](http://pubmed.gov/24952864)
+Am Heart J. 2014 Jul;168(1):88-95.e2. doi: [10.1016/j.ahj.2014.03.022](http://dx.doi.org/10.1016/j.ahj.2014.03.022). PMID: [24952864](http://pubmed.gov/24952864) [NCT00426868](https://clinicaltrials.gov/ct2/show/NCT00426868)
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
