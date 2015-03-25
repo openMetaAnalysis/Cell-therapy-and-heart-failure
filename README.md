@@ -35,6 +35,11 @@ References:
 #### New trial(s) *not* included in the most recent review above
 1. *Included by converting IQRs to SDs*: Pätilä T, Lehtinen M, Vento A, at al. Autologous bone marrow mononuclear cell transplantation in ischemic heart failure: a prospective, controlled, randomized, double-blind study of cell transplantation combined with coronary bypass. J Heart Lung Transplant. 2014 Jun;33(6):567-74. doi: [10.1016/j.healun.2014.02.009](http://dx.doi.org/10.1016/j.healun.2014.02.009). PMID: [24656645](http://pubmed.gov/24656645)
 
+#### New trial(s) undergoing review
+1. *This is the 5-year follow-up to Pätilä*: Lehtinen M, Pätilä T, Kankuri E, Lauerma K, Sinisalo J, Laine M, Kupari M, Vento A, Harjula A; Helsinki BMMC Collaboration. Intramyocardial bone marrow mononuclear cell transplantation in ischemic heart failure: Long-term follow-up.  J Heart Lung Transplant. 2015 Feb 7. pii: S1053-2498(15)01037-2. doi:
+[10.1016/j.healun.2015.01.989](http://dx.doi.org/10.1016/j.healun.2015.01.989). PMID: [25797522](http://pubmed.gov/25797522)
+
+
 #### New trial(s) *excluded* 
 1. *LVEF reported as insignificant, but numbers not reported*: Perin EC, Sanz-Ruiz R, Sánchez PL et al. Adipose-derived regenerative cells in patients with ischemic cardiomyopathy: The PRECISE Trial.
 Am Heart J. 2014 Jul;168(1):88-95.e2. doi: [10.1016/j.ahj.2014.03.022](http://dx.doi.org/10.1016/j.ahj.2014.03.022). PMID: [24952864](http://pubmed.gov/24952864) [NCT00426868](https://clinicaltrials.gov/ct2/show/NCT00426868)
