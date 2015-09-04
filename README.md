@@ -33,7 +33,9 @@ References:
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. *Included by converting IQRs to SDs*: Pätilä T, Lehtinen M, Vento A, at al. Autologous bone marrow mononuclear cell transplantation in ischemic heart failure: a prospective, controlled, randomized, double-blind study of cell transplantation combined with coronary bypass. J Heart Lung Transplant. 2014 Jun;33(6):567-74. doi: [10.1016/j.healun.2014.02.009](http://dx.doi.org/10.1016/j.healun.2014.02.009). PMID: [24656645](http://pubmed.gov/24656645)
+1. Hamshere S, Arnous S, Choudhury T, Choudry F, Mozid A, Yeo C, et al. Randomized trial of combination cytokine and adult autologous bone marrow progenitor cell administration in patients with non-ischaemic dilated cardiomyopathy: the
+REGENERATE-DCM clinical trial. Eur Heart J. 2015 Sep 2. PMID: [26333366](http://pubmed.gov/26333366)
+2. *Included by converting IQRs to SDs*: Pätilä T, Lehtinen M, Vento A, at al. Autologous bone marrow mononuclear cell transplantation in ischemic heart failure: a prospective, controlled, randomized, double-blind study of cell transplantation combined with coronary bypass. J Heart Lung Transplant. 2014 Jun;33(6):567-74. doi: [10.1016/j.healun.2014.02.009](http://dx.doi.org/10.1016/j.healun.2014.02.009). PMID: [24656645](http://pubmed.gov/24656645)
 
 #### New trial(s) undergoing review
 1. *This is the 5-year follow-up to Pätilä*: Lehtinen M, Pätilä T, Kankuri E, Lauerma K, Sinisalo J, Laine M, Kupari M, Vento A, Harjula A; Helsinki BMMC Collaboration. Intramyocardial bone marrow mononuclear cell transplantation in ischemic heart failure: Long-term follow-up.  J Heart Lung Transplant. 2015 Feb 7. pii: S1053-2498(15)01037-2. doi:
