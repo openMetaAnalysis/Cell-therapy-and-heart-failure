@@ -34,12 +34,12 @@ References:
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1. *Included by converting 95%CIs to SDs*: PMartino H, Brofman P, Greco O, Bueno R, Bodanese L, Clausell N; Dilated Cardiomyopathy Arm of the MiHeart Study Investigators. Multicentre, randomized, double-blind trial of intracoronary autologous mononuclear bone marrow cell injection in non-ischaemic dilated cardiomyopathy (the dilated cardiomyopathy arm of the MiHeart study). Eur Heart J. 2015 Sep 20. PMID: [26392433](http://pubmed.gov/26392433)
-1. Hamshere S, Arnous S, Choudhury T, Choudry F, Mozid A, Yeo C, et al. Randomized trial of combination cytokine and adult autologous bone marrow progenitor cell administration in patients with non-ischaemic dilated cardiomyopathy: the
+1. Perin EC, Borow KM, Silva GV, DeMaria AN, Marroquin OC, Huang PP, et al. A Phase II Dose-Escalation Study of Allogeneic Mesenchymal Precursor Cells in Patients With  Ischemic or Nonischemic Heart Failure. Circ Res. 2015 Aug 28;117(6):576-84. doi:  10.1161/CIRCRESAHA.115.306332. MID: [26148930](http://pubmed.gov/26148930)
+2. 1. Hamshere S, Arnous S, Choudhury T, Choudry F, Mozid A, Yeo C, et al. Randomized trial of combination cytokine and adult autologous bone marrow progenitor cell administration in patients with non-ischaemic dilated cardiomyopathy: the
 REGENERATE-DCM clinical trial. Eur Heart J. 2015 Sep 2. PMID: [26333366](http://pubmed.gov/26333366)
 2. *Included by converting IQRs to SDs*: Pätilä T, Lehtinen M, Vento A, at al. Autologous bone marrow mononuclear cell transplantation in ischemic heart failure: a prospective, controlled, randomized, double-blind study of cell transplantation combined with coronary bypass. J Heart Lung Transplant. 2014 Jun;33(6):567-74. doi: [10.1016/j.healun.2014.02.009](http://dx.doi.org/10.1016/j.healun.2014.02.009). PMID: [24656645](http://pubmed.gov/24656645)
 
 #### New trial(s) undergoing review
-1. *Waiting on online-only table*: Perin EC, Borow KM, Silva GV, DeMaria AN, Marroquin OC, Huang PP, et al. A Phase II Dose-Escalation Study of Allogeneic Mesenchymal Precursor Cells in Patients With  Ischemic or Nonischemic Heart Failure. Circ Res. 2015 Aug 28;117(6):576-84. doi:  10.1161/CIRCRESAHA.115.306332. MID: [26148930](http://pubmed.gov/26148930)
 1. *This is the 5-year follow-up to Pätilä*: Lehtinen M, Pätilä T, Kankuri E, Lauerma K, Sinisalo J, Laine M, Kupari M, Vento A, Harjula A; Helsinki BMMC Collaboration. Intramyocardial bone marrow mononuclear cell transplantation in ischemic heart failure: Long-term follow-up.  J Heart Lung Transplant. 2015 Feb 7. pii: S1053-2498(15)01037-2. doi:
 [10.1016/j.healun.2015.01.989](http://dx.doi.org/10.1016/j.healun.2015.01.989). PMID: [25797522](http://pubmed.gov/25797522)
 
